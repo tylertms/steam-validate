@@ -1,0 +1,1 @@
+Bulk validator for Steam game integrity. Run the script, it will detect all steam library locations and call the built-in steam validation tool. It monitors the logs from the Steam root to determine the status and know when to move on.
